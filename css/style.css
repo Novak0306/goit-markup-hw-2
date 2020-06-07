@@ -11,7 +11,11 @@ body {
     display:flex;
     background: #FFFFFF;
     }
-
+.studia_link:focus,
+.studia_link:hover {
+   
+    color: #2196F3;
+}
 .nav {
     width: 294px;
     list-style: none;
@@ -262,8 +266,6 @@ body {
 .our_clients_nav li {
     width: 170px;
     height: 90px;
-    
-
     border: 1px solid #AFB1B8;
     box-sizing: border-box;
     border-radius: 4px;
@@ -272,8 +274,6 @@ body {
 
 .our_clients_nav a {
     padding-left: 60px;
-    
-   
 }
 
 .footer_studio {
