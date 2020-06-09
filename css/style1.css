@@ -85,7 +85,7 @@ body {
     font-weight: 900;
     font-size: 44px;
     line-height: 60px;
-    text-align: center;
+ 
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -211,7 +211,7 @@ body {
 
 .address_footer {
     font-style: normal;
-    margin-top: 8px;
+ 
     list-style: none;
     font-size: 14px;
     line-height: 24px;
@@ -220,7 +220,7 @@ body {
 }
     
 .address_footer a {
-    text-align: center;
+  
     text-decoration: none;
     font-weight: 500;
     font-size: 14px;
