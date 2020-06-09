@@ -189,16 +189,6 @@ body {
   
     list-style: none;
 }
-
-
-.our_clients_nav li {
-   
-    border: 1px solid #AFB1B8;
-    box-sizing: border-box;
-    border-radius: 4px;
-
-}
-
 .our_clients_nav a {
     padding-left: 60px;
 }
